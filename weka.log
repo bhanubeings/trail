@@ -1,0 +1,16 @@
+2018-12-22 12:45:18 weka.gui.GUIChooser main
+INFO: Logging started
+---Registering Weka Editors---
+Trying to add database driver (JDBC): RmiJdbc.RJDriver - Error, not in CLASSPATH?
+Trying to add database driver (JDBC): jdbc.idbDriver - Error, not in CLASSPATH?
+Trying to add database driver (JDBC): org.gjt.mm.mysql.Driver - Error, not in CLASSPATH?
+Trying to add database driver (JDBC): com.mckoi.JDBCDriver - Error, not in CLASSPATH?
+Trying to add database driver (JDBC): org.hsqldb.jdbcDriver - Error, not in CLASSPATH?
+2018-12-22 12:45:25 weka.gui.explorer.Explorer <init>
+INFO: Weka Explorer
+2018-12-22 12:45:25 weka.gui.explorer.Explorer <init>
+INFO: (c) 1999-2012 The University of Waikato, Hamilton, New Zealand
+2018-12-22 12:45:25 weka.gui.explorer.Explorer <init>
+INFO: web: http://www.cs.waikato.ac.nz/~ml/weka/
+2018-12-22 12:45:25 weka.gui.explorer.Explorer <init>
+INFO: Started on Saturday, 22 December 2018
